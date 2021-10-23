@@ -25,7 +25,7 @@ label {
 }
 
 .pure-img-responsive {
-    background: url('img\common\file-icons.png')
+    background: url('file-icons.png')
     max-width: 100%;
     height: auto;
 }
